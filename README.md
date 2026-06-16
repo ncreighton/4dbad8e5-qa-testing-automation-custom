@@ -1,2 +1,59 @@
-# 4dbad8e5-qa-testing-automation-custom
-Your QA team catches bugs before they hit production, but do your clients ever see the value? Stop fighting to prove your testing ROI — now you can automatically display your automated test results as powerful customer testimonials and reviews right on your WordPress site.  This plugin bridges the gap between internal QA automation and external tru
+=== QA & Testing Automation Customer Testimonial and Review Display WordPress Plugin ===
+Contributors: digitalforge
+Requires at least: 5.8
+Tested up to: 6.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Collect, curate, and display social proof with schema markup and widgets. Convert visitors with authentic QA & Testing Automation testimonials.
+
+== Description ==
+
+Collect, curate, and display social proof with schema markup and widgets. Convert visitors with authentic QA & Testing Automation testimonials.
+
+**Features:**
+
+* Core functionality
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`
+2. Activate via WordPress admin > Plugins
+3. Configure via Settings > QA & Testing Automation Customer Testimonial and Review Display WordPress Plugin
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial release.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRm00j4eP9MwbRSfQ8cZn1D)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRm00j4eP9MwbRSfQ8cZn1D)
+
